@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v._05GDSexAdd_on_PROTO_", "v._05GDSexAdd_on_PROTO_\v._05GDSexAdd_on_PROTO_.csproj", "{E0B3FDC3-F960-4E10-849E-DC88B9A398E8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "v._05GDSexAdd_on_PROTO_Content", "v._05GDSexAdd_on_PROTO_Content\v._05GDSexAdd_on_PROTO_Content.contentproj", "{916F985E-3BA6-4D2A-ADBD-8E2FB8BD80DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B3FDC3-F960-4E10-849E-DC88B9A398E8}.Debug|x86.ActiveCfg = Debug|x86
+		{E0B3FDC3-F960-4E10-849E-DC88B9A398E8}.Debug|x86.Build.0 = Debug|x86
+		{E0B3FDC3-F960-4E10-849E-DC88B9A398E8}.Release|x86.ActiveCfg = Release|x86
+		{E0B3FDC3-F960-4E10-849E-DC88B9A398E8}.Release|x86.Build.0 = Release|x86
+		{916F985E-3BA6-4D2A-ADBD-8E2FB8BD80DB}.Debug|x86.ActiveCfg = Debug|x86
+		{916F985E-3BA6-4D2A-ADBD-8E2FB8BD80DB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E783C4A5-0D3A-4136-84E7-864D7A5074C9}
+	EndGlobalSection
+EndGlobal
